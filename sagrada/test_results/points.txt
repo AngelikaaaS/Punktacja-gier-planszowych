@@ -1,0 +1,2016 @@
+image: 20211013_113434
+Individual goals:
+red: 12
+yellow: 21
+green: 11
+blue: 13
+purple: 10
+Group goals:
+Ró¿norodnoæ kolorów: 8
+Ró¿norodnoæ kolorów w rzêdzie: 0
+Ró¿norodnoæ kolorów w kolumnie: 0
+Ró¿norodnoæ odcieni w rzêdzie: 0
+Ró¿norodnoæ odcieni w kolumnie: 0
+Jasne odcienie: 8
+Posrednie odcienie: 4
+Ciemne odcienie: 6
+Ró¿norodnoæ odcieni: 10
+Kolorowe przek¹tne: 25
+Loss points number: 0
+Final points number: 79
+
+image: 20211013_113439
+Individual goals:
+red: 12
+yellow: 21
+green: 11
+blue: 13
+purple: 10
+Group goals:
+Ró¿norodnoæ kolorów: 8
+Ró¿norodnoæ kolorów w rzêdzie: 0
+Ró¿norodnoæ kolorów w kolumnie: 0
+Ró¿norodnoæ odcieni w rzêdzie: 0
+Ró¿norodnoæ odcieni w kolumnie: 0
+Jasne odcienie: 8
+Posrednie odcienie: 4
+Ciemne odcienie: 6
+Ró¿norodnoæ odcieni: 10
+Kolorowe przek¹tne: 25
+Loss points number: 0
+Final points number: 79
+
+image: 20211013_113525
+Individual goals:
+red: 11
+yellow: 15
+green: 11
+blue: 13
+purple: 10
+Group goals:
+Ró¿norodnoæ kolorów: 8
+Ró¿norodnoæ kolorów w rzêdzie: 0
+Ró¿norodnoæ kolorów w kolumnie: 0
+Ró¿norodnoæ odcieni w rzêdzie: 0
+Ró¿norodnoæ odcieni w kolumnie: 4
+Jasne odcienie: 6
+Posrednie odcienie: 4
+Ciemne odcienie: 6
+Ró¿norodnoæ odcieni: 10
+Kolorowe przek¹tne: 19
+Loss points number: 2
+Final points number: 73
+
+image: 20211013_113532
+Individual goals:
+red: 6
+yellow: 15
+green: 11
+blue: 13
+purple: 10
+Group goals:
+Ró¿norodnoæ kolorów: 8
+Ró¿norodnoæ kolorów w rzêdzie: 0
+Ró¿norodnoæ kolorów w kolumnie: 0
+Ró¿norodnoæ odcieni w rzêdzie: 0
+Ró¿norodnoæ odcieni w kolumnie: 0
+Jasne odcienie: 6
+Posrednie odcienie: 4
+Ciemne odcienie: 4
+Ró¿norodnoæ odcieni: 10
+Kolorowe przek¹tne: 19
+Loss points number: 3
+Final points number: 66
+
+image: 20211014_092714
+Individual goals:
+red: 15
+yellow: 10
+green: 14
+blue: 8
+purple: 16
+Group goals:
+Ró¿norodnoæ kolorów: 16
+Ró¿norodnoæ kolorów w rzêdzie: 24
+Ró¿norodnoæ kolorów w kolumnie: 20
+Ró¿norodnoæ odcieni w rzêdzie: 20
+Ró¿norodnoæ odcieni w kolumnie: 0
+Jasne odcienie: 6
+Posrednie odcienie: 6
+Ciemne odcienie: 4
+Ró¿norodnoæ odcieni: 10
+Kolorowe przek¹tne: 38
+Loss points number: 0
+Final points number: 176
+
+image: 20211014_092724
+Individual goals:
+red: 15
+yellow: 10
+green: 14
+blue: 8
+purple: 16
+Group goals:
+Ró¿norodnoæ kolorów: 16
+Ró¿norodnoæ kolorów w rzêdzie: 24
+Ró¿norodnoæ kolorów w kolumnie: 20
+Ró¿norodnoæ odcieni w rzêdzie: 20
+Ró¿norodnoæ odcieni w kolumnie: 0
+Jasne odcienie: 6
+Posrednie odcienie: 6
+Ciemne odcienie: 4
+Ró¿norodnoæ odcieni: 10
+Kolorowe przek¹tne: 38
+Loss points number: 0
+Final points number: 176
+
+image: 20211014_092730
+Individual goals:
+red: 15
+yellow: 10
+green: 14
+blue: 8
+purple: 15
+Group goals:
+Ró¿norodnoæ kolorów: 16
+Ró¿norodnoæ kolorów w rzêdzie: 24
+Ró¿norodnoæ kolorów w kolumnie: 20
+Ró¿norodnoæ odcieni w rzêdzie: 20
+Ró¿norodnoæ odcieni w kolumnie: 0
+Jasne odcienie: 6
+Posrednie odcienie: 8
+Ciemne odcienie: 2
+Ró¿norodnoæ odcieni: 5
+Kolorowe przek¹tne: 37
+Loss points number: 0
+Final points number: 169
+
+image: 20211014_092733
+Individual goals:
+red: 15
+yellow: 10
+green: 14
+blue: 8
+purple: 11
+Group goals:
+Ró¿norodnoæ kolorów: 12
+Ró¿norodnoæ kolorów w rzêdzie: 18
+Ró¿norodnoæ kolorów w kolumnie: 20
+Ró¿norodnoæ odcieni w rzêdzie: 20
+Ró¿norodnoæ odcieni w kolumnie: 0
+Jasne odcienie: 6
+Posrednie odcienie: 6
+Ciemne odcienie: 2
+Ró¿norodnoæ odcieni: 5
+Kolorowe przek¹tne: 33
+Loss points number: 1
+Final points number: 144
+
+image: 20211014_092737
+Individual goals:
+red: 15
+yellow: 10
+green: 14
+blue: 8
+purple: 16
+Group goals:
+Ró¿norodnoæ kolorów: 16
+Ró¿norodnoæ kolorów w rzêdzie: 24
+Ró¿norodnoæ kolorów w kolumnie: 20
+Ró¿norodnoæ odcieni w rzêdzie: 20
+Ró¿norodnoæ odcieni w kolumnie: 0
+Jasne odcienie: 6
+Posrednie odcienie: 6
+Ciemne odcienie: 4
+Ró¿norodnoæ odcieni: 10
+Kolorowe przek¹tne: 38
+Loss points number: 0
+Final points number: 176
+
+image: 20211014_092750
+Individual goals:
+red: 9
+yellow: 9
+green: 14
+blue: 8
+purple: 11
+Group goals:
+Ró¿norodnoæ kolorów: 12
+Ró¿norodnoæ kolorów w rzêdzie: 12
+Ró¿norodnoæ kolorów w kolumnie: 20
+Ró¿norodnoæ odcieni w rzêdzie: 20
+Ró¿norodnoæ odcieni w kolumnie: 4
+Jasne odcienie: 6
+Posrednie odcienie: 6
+Ciemne odcienie: 2
+Ró¿norodnoæ odcieni: 5
+Kolorowe przek¹tne: 27
+Loss points number: 1
+Final points number: 136
+
+image: 20211014_092800
+Individual goals:
+red: 9
+yellow: 9
+green: 14
+blue: 8
+purple: 16
+Group goals:
+Ró¿norodnoæ kolorów: 12
+Ró¿norodnoæ kolorów w rzêdzie: 12
+Ró¿norodnoæ kolorów w kolumnie: 15
+Ró¿norodnoæ odcieni w rzêdzie: 15
+Ró¿norodnoæ odcieni w kolumnie: 0
+Jasne odcienie: 6
+Posrednie odcienie: 6
+Ciemne odcienie: 4
+Ró¿norodnoæ odcieni: 10
+Kolorowe przek¹tne: 24
+Loss points number: 2
+Final points number: 130
+
+image: 20211014_092804
+Individual goals:
+red: 9
+yellow: 9
+green: 14
+blue: 8
+purple: 16
+Group goals:
+Ró¿norodnoæ kolorów: 12
+Ró¿norodnoæ kolorów w rzêdzie: 12
+Ró¿norodnoæ kolorów w kolumnie: 15
+Ró¿norodnoæ odcieni w rzêdzie: 15
+Ró¿norodnoæ odcieni w kolumnie: 0
+Jasne odcienie: 6
+Posrednie odcienie: 6
+Ciemne odcienie: 4
+Ró¿norodnoæ odcieni: 10
+Kolorowe przek¹tne: 24
+Loss points number: 2
+Final points number: 130
+
+image: 20211014_092821
+Individual goals:
+red: 13
+yellow: 14
+green: 14
+blue: 8
+purple: 16
+Group goals:
+Ró¿norodnoæ kolorów: 16
+Ró¿norodnoæ kolorów w rzêdzie: 24
+Ró¿norodnoæ kolorów w kolumnie: 20
+Ró¿norodnoæ odcieni w rzêdzie: 20
+Ró¿norodnoæ odcieni w kolumnie: 0
+Jasne odcienie: 6
+Posrednie odcienie: 8
+Ciemne odcienie: 4
+Ró¿norodnoæ odcieni: 10
+Kolorowe przek¹tne: 36
+Loss points number: 0
+Final points number: 176
+
+image: 20211014_092824
+Individual goals:
+red: 13
+yellow: 14
+green: 14
+blue: 8
+purple: 16
+Group goals:
+Ró¿norodnoæ kolorów: 16
+Ró¿norodnoæ kolorów w rzêdzie: 24
+Ró¿norodnoæ kolorów w kolumnie: 20
+Ró¿norodnoæ odcieni w rzêdzie: 20
+Ró¿norodnoæ odcieni w kolumnie: 0
+Jasne odcienie: 6
+Posrednie odcienie: 8
+Ciemne odcienie: 4
+Ró¿norodnoæ odcieni: 10
+Kolorowe przek¹tne: 36
+Loss points number: 0
+Final points number: 176
+
+image: 20211014_092912
+Individual goals:
+red: 13
+yellow: 0
+green: 21
+blue: 8
+purple: 23
+Group goals:
+Ró¿norodnoæ kolorów: 0
+Ró¿norodnoæ kolorów w rzêdzie: 0
+Ró¿norodnoæ kolorów w kolumnie: 15
+Ró¿norodnoæ odcieni w rzêdzie: 15
+Ró¿norodnoæ odcieni w kolumnie: 0
+Jasne odcienie: 6
+Posrednie odcienie: 8
+Ciemne odcienie: 4
+Ró¿norodnoæ odcieni: 10
+Kolorowe przek¹tne: 55
+Loss points number: 0
+Final points number: 136
+
+image: 20211014_092915
+Individual goals:
+red: 13
+yellow: 0
+green: 21
+blue: 8
+purple: 23
+Group goals:
+Ró¿norodnoæ kolorów: 0
+Ró¿norodnoæ kolorów w rzêdzie: 0
+Ró¿norodnoæ kolorów w kolumnie: 15
+Ró¿norodnoæ odcieni w rzêdzie: 15
+Ró¿norodnoæ odcieni w kolumnie: 0
+Jasne odcienie: 6
+Posrednie odcienie: 8
+Ciemne odcienie: 4
+Ró¿norodnoæ odcieni: 10
+Kolorowe przek¹tne: 55
+Loss points number: 0
+Final points number: 136
+
+image: 20211014_092917
+Individual goals:
+red: 13
+yellow: 0
+green: 21
+blue: 8
+purple: 23
+Group goals:
+Ró¿norodnoæ kolorów: 0
+Ró¿norodnoæ kolorów w rzêdzie: 0
+Ró¿norodnoæ kolorów w kolumnie: 15
+Ró¿norodnoæ odcieni w rzêdzie: 15
+Ró¿norodnoæ odcieni w kolumnie: 0
+Jasne odcienie: 6
+Posrednie odcienie: 8
+Ciemne odcienie: 4
+Ró¿norodnoæ odcieni: 10
+Kolorowe przek¹tne: 55
+Loss points number: 0
+Final points number: 136
+
+image: 20211014_092920
+Individual goals:
+red: 13
+yellow: 0
+green: 21
+blue: 8
+purple: 23
+Group goals:
+Ró¿norodnoæ kolorów: 0
+Ró¿norodnoæ kolorów w rzêdzie: 0
+Ró¿norodnoæ kolorów w kolumnie: 15
+Ró¿norodnoæ odcieni w rzêdzie: 15
+Ró¿norodnoæ odcieni w kolumnie: 0
+Jasne odcienie: 6
+Posrednie odcienie: 8
+Ciemne odcienie: 4
+Ró¿norodnoæ odcieni: 10
+Kolorowe przek¹tne: 55
+Loss points number: 0
+Final points number: 136
+
+image: 20211014_092938
+Individual goals:
+red: 13
+yellow: 0
+green: 15
+blue: 8
+purple: 23
+Group goals:
+Ró¿norodnoæ kolorów: 0
+Ró¿norodnoæ kolorów w rzêdzie: 0
+Ró¿norodnoæ kolorów w kolumnie: 15
+Ró¿norodnoæ odcieni w rzêdzie: 15
+Ró¿norodnoæ odcieni w kolumnie: 0
+Jasne odcienie: 6
+Posrednie odcienie: 8
+Ciemne odcienie: 4
+Ró¿norodnoæ odcieni: 10
+Kolorowe przek¹tne: 51
+Loss points number: 0
+Final points number: 132
+
+image: 20211014_092940
+Individual goals:
+red: 13
+yellow: 0
+green: 21
+blue: 8
+purple: 22
+Group goals:
+Ró¿norodnoæ kolorów: 0
+Ró¿norodnoæ kolorów w rzêdzie: 0
+Ró¿norodnoæ kolorów w kolumnie: 15
+Ró¿norodnoæ odcieni w rzêdzie: 15
+Ró¿norodnoæ odcieni w kolumnie: 4
+Jasne odcienie: 4
+Posrednie odcienie: 8
+Ciemne odcienie: 4
+Ró¿norodnoæ odcieni: 10
+Kolorowe przek¹tne: 54
+Loss points number: 0
+Final points number: 136
+
+image: 20211014_093013
+Individual goals:
+red: 0
+yellow: 12
+green: 21
+blue: 8
+purple: 23
+Group goals:
+Ró¿norodnoæ kolorów: 0
+Ró¿norodnoæ kolorów w rzêdzie: 0
+Ró¿norodnoæ kolorów w kolumnie: 15
+Ró¿norodnoæ odcieni w rzêdzie: 15
+Ró¿norodnoæ odcieni w kolumnie: 4
+Jasne odcienie: 6
+Posrednie odcienie: 6
+Ciemne odcienie: 2
+Ró¿norodnoæ odcieni: 5
+Kolorowe przek¹tne: 49
+Loss points number: 0
+Final points number: 125
+
+image: 20211014_093017
+Individual goals:
+red: 0
+yellow: 12
+green: 17
+blue: 8
+purple: 23
+Group goals:
+Ró¿norodnoæ kolorów: 0
+Ró¿norodnoæ kolorów w rzêdzie: 0
+Ró¿norodnoæ kolorów w kolumnie: 15
+Ró¿norodnoæ odcieni w rzêdzie: 15
+Ró¿norodnoæ odcieni w kolumnie: 4
+Jasne odcienie: 6
+Posrednie odcienie: 6
+Ciemne odcienie: 2
+Ró¿norodnoæ odcieni: 5
+Kolorowe przek¹tne: 49
+Loss points number: 0
+Final points number: 125
+
+image: 20211014_093019
+Individual goals:
+red: 0
+yellow: 12
+green: 22
+blue: 8
+purple: 23
+Group goals:
+Ró¿norodnoæ kolorów: 0
+Ró¿norodnoæ kolorów w rzêdzie: 0
+Ró¿norodnoæ kolorów w kolumnie: 15
+Ró¿norodnoæ odcieni w rzêdzie: 15
+Ró¿norodnoæ odcieni w kolumnie: 4
+Jasne odcienie: 6
+Posrednie odcienie: 6
+Ciemne odcienie: 2
+Ró¿norodnoæ odcieni: 5
+Kolorowe przek¹tne: 49
+Loss points number: 0
+Final points number: 125
+
+image: 20211014_093054
+Individual goals:
+red: 0
+yellow: 12
+green: 15
+blue: 8
+purple: 23
+Group goals:
+Ró¿norodnoæ kolorów: 0
+Ró¿norodnoæ kolorów w rzêdzie: 0
+Ró¿norodnoæ kolorów w kolumnie: 15
+Ró¿norodnoæ odcieni w rzêdzie: 15
+Ró¿norodnoæ odcieni w kolumnie: 4
+Jasne odcienie: 6
+Posrednie odcienie: 6
+Ciemne odcienie: 2
+Ró¿norodnoæ odcieni: 5
+Kolorowe przek¹tne: 43
+Loss points number: 1
+Final points number: 118
+
+image: 20211014_093058
+Individual goals:
+red: 0
+yellow: 12
+green: 21
+blue: 8
+purple: 23
+Group goals:
+Ró¿norodnoæ kolorów: 0
+Ró¿norodnoæ kolorów w rzêdzie: 0
+Ró¿norodnoæ kolorów w kolumnie: 15
+Ró¿norodnoæ odcieni w rzêdzie: 15
+Ró¿norodnoæ odcieni w kolumnie: 4
+Jasne odcienie: 6
+Posrednie odcienie: 6
+Ciemne odcienie: 2
+Ró¿norodnoæ odcieni: 5
+Kolorowe przek¹tne: 49
+Loss points number: 0
+Final points number: 125
+
+image: 20211014_093135
+Individual goals:
+red: 10
+yellow: 12
+green: 18
+blue: 0
+purple: 16
+Group goals:
+Ró¿norodnoæ kolorów: 0
+Ró¿norodnoæ kolorów w rzêdzie: 0
+Ró¿norodnoæ kolorów w kolumnie: 15
+Ró¿norodnoæ odcieni w rzêdzie: 15
+Ró¿norodnoæ odcieni w kolumnie: 0
+Jasne odcienie: 6
+Posrednie odcienie: 6
+Ciemne odcienie: 0
+Ró¿norodnoæ odcieni: 0
+Kolorowe przek¹tne: 42
+Loss points number: 2
+Final points number: 98
+
+image: 20211014_093139
+Individual goals:
+red: 10
+yellow: 12
+green: 24
+blue: 0
+purple: 21
+Group goals:
+Ró¿norodnoæ kolorów: 0
+Ró¿norodnoæ kolorów w rzêdzie: 0
+Ró¿norodnoæ kolorów w kolumnie: 15
+Ró¿norodnoæ odcieni w rzêdzie: 15
+Ró¿norodnoæ odcieni w kolumnie: 0
+Jasne odcienie: 6
+Posrednie odcienie: 6
+Ciemne odcienie: 2
+Ró¿norodnoæ odcieni: 5
+Kolorowe przek¹tne: 53
+Loss points number: 0
+Final points number: 123
+
+image: 20211014_093144
+Individual goals:
+red: 10
+yellow: 12
+green: 24
+blue: 0
+purple: 20
+Group goals:
+Ró¿norodnoæ kolorów: 0
+Ró¿norodnoæ kolorów w rzêdzie: 0
+Ró¿norodnoæ kolorów w kolumnie: 15
+Ró¿norodnoæ odcieni w rzêdzie: 15
+Ró¿norodnoæ odcieni w kolumnie: 0
+Jasne odcienie: 6
+Posrednie odcienie: 8
+Ciemne odcienie: 0
+Ró¿norodnoæ odcieni: 0
+Kolorowe przek¹tne: 52
+Loss points number: 0
+Final points number: 116
+
+image: 20211014_093152
+Individual goals:
+red: 10
+yellow: 12
+green: 24
+blue: 0
+purple: 21
+Group goals:
+Ró¿norodnoæ kolorów: 0
+Ró¿norodnoæ kolorów w rzêdzie: 0
+Ró¿norodnoæ kolorów w kolumnie: 15
+Ró¿norodnoæ odcieni w rzêdzie: 15
+Ró¿norodnoæ odcieni w kolumnie: 0
+Jasne odcienie: 6
+Posrednie odcienie: 6
+Ciemne odcienie: 2
+Ró¿norodnoæ odcieni: 5
+Kolorowe przek¹tne: 53
+Loss points number: 0
+Final points number: 123
+
+image: 20211014_093158
+Individual goals:
+red: 10
+yellow: 12
+green: 24
+blue: 0
+purple: 21
+Group goals:
+Ró¿norodnoæ kolorów: 0
+Ró¿norodnoæ kolorów w rzêdzie: 0
+Ró¿norodnoæ kolorów w kolumnie: 15
+Ró¿norodnoæ odcieni w rzêdzie: 15
+Ró¿norodnoæ odcieni w kolumnie: 0
+Jasne odcienie: 6
+Posrednie odcienie: 6
+Ciemne odcienie: 2
+Ró¿norodnoæ odcieni: 5
+Kolorowe przek¹tne: 53
+Loss points number: 0
+Final points number: 123
+
+image: 20211014_093255
+Individual goals:
+red: 10
+yellow: 15
+green: 0
+blue: 22
+purple: 21
+Group goals:
+Ró¿norodnoæ kolorów: 0
+Ró¿norodnoæ kolorów w rzêdzie: 0
+Ró¿norodnoæ kolorów w kolumnie: 15
+Ró¿norodnoæ odcieni w rzêdzie: 15
+Ró¿norodnoæ odcieni w kolumnie: 8
+Jasne odcienie: 6
+Posrednie odcienie: 6
+Ciemne odcienie: 6
+Ró¿norodnoæ odcieni: 15
+Kolorowe przek¹tne: 51
+Loss points number: 0
+Final points number: 143
+
+image: 20211014_093259
+Individual goals:
+red: 10
+yellow: 15
+green: 0
+blue: 22
+purple: 21
+Group goals:
+Ró¿norodnoæ kolorów: 0
+Ró¿norodnoæ kolorów w rzêdzie: 0
+Ró¿norodnoæ kolorów w kolumnie: 15
+Ró¿norodnoæ odcieni w rzêdzie: 15
+Ró¿norodnoæ odcieni w kolumnie: 8
+Jasne odcienie: 6
+Posrednie odcienie: 6
+Ciemne odcienie: 6
+Ró¿norodnoæ odcieni: 15
+Kolorowe przek¹tne: 51
+Loss points number: 0
+Final points number: 143
+
+image: 20211014_093310
+Individual goals:
+red: 11
+yellow: 10
+green: 0
+blue: 22
+purple: 21
+Group goals:
+Ró¿norodnoæ kolorów: 0
+Ró¿norodnoæ kolorów w rzêdzie: 0
+Ró¿norodnoæ kolorów w kolumnie: 10
+Ró¿norodnoæ odcieni w rzêdzie: 10
+Ró¿norodnoæ odcieni w kolumnie: 4
+Jasne odcienie: 4
+Posrednie odcienie: 2
+Ciemne odcienie: 6
+Ró¿norodnoæ odcieni: 5
+Kolorowe przek¹tne: 47
+Loss points number: 1
+Final points number: 108
+
+image: 20211014_093313
+Individual goals:
+red: 10
+yellow: 15
+green: 0
+blue: 12
+purple: 21
+Group goals:
+Ró¿norodnoæ kolorów: 0
+Ró¿norodnoæ kolorów w rzêdzie: 0
+Ró¿norodnoæ kolorów w kolumnie: 10
+Ró¿norodnoæ odcieni w rzêdzie: 10
+Ró¿norodnoæ odcieni w kolumnie: 4
+Jasne odcienie: 6
+Posrednie odcienie: 6
+Ciemne odcienie: 2
+Ró¿norodnoæ odcieni: 5
+Kolorowe przek¹tne: 46
+Loss points number: 2
+Final points number: 108
+
+image: 20211014_093321
+Individual goals:
+red: 10
+yellow: 15
+green: 0
+blue: 21
+purple: 21
+Group goals:
+Ró¿norodnoæ kolorów: 0
+Ró¿norodnoæ kolorów w rzêdzie: 0
+Ró¿norodnoæ kolorów w kolumnie: 15
+Ró¿norodnoæ odcieni w rzêdzie: 15
+Ró¿norodnoæ odcieni w kolumnie: 8
+Jasne odcienie: 6
+Posrednie odcienie: 8
+Ciemne odcienie: 4
+Ró¿norodnoæ odcieni: 10
+Kolorowe przek¹tne: 50
+Loss points number: 0
+Final points number: 137
+
+image: 20211014_093323
+Individual goals:
+red: 10
+yellow: 15
+green: 0
+blue: 22
+purple: 21
+Group goals:
+Ró¿norodnoæ kolorów: 0
+Ró¿norodnoæ kolorów w rzêdzie: 0
+Ró¿norodnoæ kolorów w kolumnie: 15
+Ró¿norodnoæ odcieni w rzêdzie: 15
+Ró¿norodnoæ odcieni w kolumnie: 8
+Jasne odcienie: 6
+Posrednie odcienie: 6
+Ciemne odcienie: 6
+Ró¿norodnoæ odcieni: 15
+Kolorowe przek¹tne: 51
+Loss points number: 0
+Final points number: 143
+
+image: 20211014_093420
+Individual goals:
+red: 13
+yellow: 20
+green: 10
+blue: 29
+purple: 0
+Group goals:
+Ró¿norodnoæ kolorów: 0
+Ró¿norodnoæ kolorów w rzêdzie: 0
+Ró¿norodnoæ kolorów w kolumnie: 15
+Ró¿norodnoæ odcieni w rzêdzie: 15
+Ró¿norodnoæ odcieni w kolumnie: 0
+Jasne odcienie: 2
+Posrednie odcienie: 2
+Ciemne odcienie: 8
+Ró¿norodnoæ odcieni: 5
+Kolorowe przek¹tne: 57
+Loss points number: 0
+Final points number: 104
+
+image: 20211014_093423
+Individual goals:
+red: 13
+yellow: 20
+green: 20
+blue: 29
+purple: 0
+Group goals:
+Ró¿norodnoæ kolorów: 0
+Ró¿norodnoæ kolorów w rzêdzie: 0
+Ró¿norodnoæ kolorów w kolumnie: 15
+Ró¿norodnoæ odcieni w rzêdzie: 15
+Ró¿norodnoæ odcieni w kolumnie: 0
+Jasne odcienie: 2
+Posrednie odcienie: 2
+Ciemne odcienie: 8
+Ró¿norodnoæ odcieni: 5
+Kolorowe przek¹tne: 67
+Loss points number: 0
+Final points number: 114
+
+image: 20211014_093425
+Individual goals:
+red: 13
+yellow: 20
+green: 20
+blue: 29
+purple: 0
+Group goals:
+Ró¿norodnoæ kolorów: 0
+Ró¿norodnoæ kolorów w rzêdzie: 0
+Ró¿norodnoæ kolorów w kolumnie: 15
+Ró¿norodnoæ odcieni w rzêdzie: 15
+Ró¿norodnoæ odcieni w kolumnie: 0
+Jasne odcienie: 2
+Posrednie odcienie: 2
+Ciemne odcienie: 8
+Ró¿norodnoæ odcieni: 5
+Kolorowe przek¹tne: 67
+Loss points number: 0
+Final points number: 114
+
+image: 20211014_093431
+Individual goals:
+red: 13
+yellow: 20
+green: 20
+blue: 29
+purple: 0
+Group goals:
+Ró¿norodnoæ kolorów: 0
+Ró¿norodnoæ kolorów w rzêdzie: 0
+Ró¿norodnoæ kolorów w kolumnie: 15
+Ró¿norodnoæ odcieni w rzêdzie: 15
+Ró¿norodnoæ odcieni w kolumnie: 0
+Jasne odcienie: 2
+Posrednie odcienie: 2
+Ciemne odcienie: 8
+Ró¿norodnoæ odcieni: 5
+Kolorowe przek¹tne: 67
+Loss points number: 0
+Final points number: 114
+
+image: 20211014_093440
+Individual goals:
+red: 15
+yellow: 20
+green: 14
+blue: 26
+purple: 0
+Group goals:
+Ró¿norodnoæ kolorów: 0
+Ró¿norodnoæ kolorów w rzêdzie: 0
+Ró¿norodnoæ kolorów w kolumnie: 10
+Ró¿norodnoæ odcieni w rzêdzie: 10
+Ró¿norodnoæ odcieni w kolumnie: 0
+Jasne odcienie: 2
+Posrednie odcienie: 2
+Ciemne odcienie: 6
+Ró¿norodnoæ odcieni: 5
+Kolorowe przek¹tne: 61
+Loss points number: 2
+Final points number: 94
+
+image: 20211014_093444
+Individual goals:
+red: 14
+yellow: 20
+green: 18
+blue: 26
+purple: 0
+Group goals:
+Ró¿norodnoæ kolorów: 0
+Ró¿norodnoæ kolorów w rzêdzie: 0
+Ró¿norodnoæ kolorów w kolumnie: 10
+Ró¿norodnoæ odcieni w rzêdzie: 10
+Ró¿norodnoæ odcieni w kolumnie: 0
+Jasne odcienie: 0
+Posrednie odcienie: 2
+Ciemne odcienie: 8
+Ró¿norodnoæ odcieni: 0
+Kolorowe przek¹tne: 65
+Loss points number: 1
+Final points number: 94
+
+image: 20211014_093448
+Individual goals:
+red: 13
+yellow: 20
+green: 18
+blue: 26
+purple: 0
+Group goals:
+Ró¿norodnoæ kolorów: 0
+Ró¿norodnoæ kolorów w rzêdzie: 0
+Ró¿norodnoæ kolorów w kolumnie: 10
+Ró¿norodnoæ odcieni w rzêdzie: 10
+Ró¿norodnoæ odcieni w kolumnie: 0
+Jasne odcienie: 0
+Posrednie odcienie: 2
+Ciemne odcienie: 8
+Ró¿norodnoæ odcieni: 0
+Kolorowe przek¹tne: 65
+Loss points number: 2
+Final points number: 93
+
+image: 20211014_093450
+Individual goals:
+red: 13
+yellow: 20
+green: 18
+blue: 26
+purple: 0
+Group goals:
+Ró¿norodnoæ kolorów: 0
+Ró¿norodnoæ kolorów w rzêdzie: 0
+Ró¿norodnoæ kolorów w kolumnie: 10
+Ró¿norodnoæ odcieni w rzêdzie: 10
+Ró¿norodnoæ odcieni w kolumnie: 0
+Jasne odcienie: 0
+Posrednie odcienie: 2
+Ciemne odcienie: 8
+Ró¿norodnoæ odcieni: 0
+Kolorowe przek¹tne: 65
+Loss points number: 2
+Final points number: 93
+
+image: 20211014_093452
+Individual goals:
+red: 13
+yellow: 20
+green: 18
+blue: 26
+purple: 0
+Group goals:
+Ró¿norodnoæ kolorów: 0
+Ró¿norodnoæ kolorów w rzêdzie: 0
+Ró¿norodnoæ kolorów w kolumnie: 10
+Ró¿norodnoæ odcieni w rzêdzie: 10
+Ró¿norodnoæ odcieni w kolumnie: 0
+Jasne odcienie: 0
+Posrednie odcienie: 2
+Ciemne odcienie: 8
+Ró¿norodnoæ odcieni: 0
+Kolorowe przek¹tne: 65
+Loss points number: 2
+Final points number: 93
+
+image: 20211015_121443
+Individual goals:
+red: 12
+yellow: 8
+green: 13
+blue: 10
+purple: 13
+Group goals:
+Ró¿norodnoæ kolorów: 12
+Ró¿norodnoæ kolorów w rzêdzie: 12
+Ró¿norodnoæ kolorów w kolumnie: 5
+Ró¿norodnoæ odcieni w rzêdzie: 5
+Ró¿norodnoæ odcieni w kolumnie: 8
+Jasne odcienie: 8
+Posrednie odcienie: 2
+Ciemne odcienie: 2
+Ró¿norodnoæ odcieni: 5
+Kolorowe przek¹tne: 26
+Loss points number: 0
+Final points number: 110
+
+image: 20211015_121445
+Individual goals:
+red: 12
+yellow: 8
+green: 13
+blue: 10
+purple: 13
+Group goals:
+Ró¿norodnoæ kolorów: 12
+Ró¿norodnoæ kolorów w rzêdzie: 12
+Ró¿norodnoæ kolorów w kolumnie: 5
+Ró¿norodnoæ odcieni w rzêdzie: 5
+Ró¿norodnoæ odcieni w kolumnie: 8
+Jasne odcienie: 8
+Posrednie odcienie: 2
+Ciemne odcienie: 2
+Ró¿norodnoæ odcieni: 5
+Kolorowe przek¹tne: 26
+Loss points number: 0
+Final points number: 110
+
+image: 20211015_121457
+Individual goals:
+red: 12
+yellow: 8
+green: 13
+blue: 10
+purple: 13
+Group goals:
+Ró¿norodnoæ kolorów: 12
+Ró¿norodnoæ kolorów w rzêdzie: 12
+Ró¿norodnoæ kolorów w kolumnie: 5
+Ró¿norodnoæ odcieni w rzêdzie: 5
+Ró¿norodnoæ odcieni w kolumnie: 8
+Jasne odcienie: 8
+Posrednie odcienie: 2
+Ciemne odcienie: 2
+Ró¿norodnoæ odcieni: 5
+Kolorowe przek¹tne: 26
+Loss points number: 0
+Final points number: 110
+
+image: 20211015_121533(0)
+Individual goals:
+red: 18
+yellow: 14
+green: 17
+blue: 19
+purple: 0
+Group goals:
+Ró¿norodnoæ kolorów: 0
+Ró¿norodnoæ kolorów w rzêdzie: 0
+Ró¿norodnoæ kolorów w kolumnie: 5
+Ró¿norodnoæ odcieni w rzêdzie: 5
+Ró¿norodnoæ odcieni w kolumnie: 12
+Jasne odcienie: 6
+Posrednie odcienie: 2
+Ciemne odcienie: 2
+Ró¿norodnoæ odcieni: 5
+Kolorowe przek¹tne: 39
+Loss points number: 0
+Final points number: 76
+
+image: 20211015_121533
+Individual goals:
+red: 18
+yellow: 14
+green: 17
+blue: 19
+purple: 0
+Group goals:
+Ró¿norodnoæ kolorów: 0
+Ró¿norodnoæ kolorów w rzêdzie: 0
+Ró¿norodnoæ kolorów w kolumnie: 5
+Ró¿norodnoæ odcieni w rzêdzie: 5
+Ró¿norodnoæ odcieni w kolumnie: 12
+Jasne odcienie: 6
+Posrednie odcienie: 2
+Ciemne odcienie: 2
+Ró¿norodnoæ odcieni: 5
+Kolorowe przek¹tne: 39
+Loss points number: 0
+Final points number: 76
+
+image: 20211015_121538
+Individual goals:
+red: 18
+yellow: 14
+green: 17
+blue: 19
+purple: 0
+Group goals:
+Ró¿norodnoæ kolorów: 0
+Ró¿norodnoæ kolorów w rzêdzie: 0
+Ró¿norodnoæ kolorów w kolumnie: 5
+Ró¿norodnoæ odcieni w rzêdzie: 5
+Ró¿norodnoæ odcieni w kolumnie: 12
+Jasne odcienie: 6
+Posrednie odcienie: 2
+Ciemne odcienie: 2
+Ró¿norodnoæ odcieni: 5
+Kolorowe przek¹tne: 39
+Loss points number: 0
+Final points number: 76
+
+image: 20211015_121559
+Individual goals:
+red: 0
+yellow: 0
+green: 16
+blue: 16
+purple: 24
+Group goals:
+Ró¿norodnoæ kolorów: 0
+Ró¿norodnoæ kolorów w rzêdzie: 0
+Ró¿norodnoæ kolorów w kolumnie: 0
+Ró¿norodnoæ odcieni w rzêdzie: 0
+Ró¿norodnoæ odcieni w kolumnie: 0
+Jasne odcienie: 4
+Posrednie odcienie: 2
+Ciemne odcienie: 6
+Ró¿norodnoæ odcieni: 5
+Kolorowe przek¹tne: 6
+Loss points number: 5
+Final points number: 42
+
+image: 20211015_121604
+Individual goals:
+red: 0
+yellow: 0
+green: 16
+blue: 16
+purple: 24
+Group goals:
+Ró¿norodnoæ kolorów: 0
+Ró¿norodnoæ kolorów w rzêdzie: 0
+Ró¿norodnoæ kolorów w kolumnie: 0
+Ró¿norodnoæ odcieni w rzêdzie: 0
+Ró¿norodnoæ odcieni w kolumnie: 0
+Jasne odcienie: 4
+Posrednie odcienie: 2
+Ciemne odcienie: 6
+Ró¿norodnoæ odcieni: 5
+Kolorowe przek¹tne: 6
+Loss points number: 5
+Final points number: 42
+
+image: 20211015_121613
+Individual goals:
+red: 18
+yellow: 0
+green: 12
+blue: 16
+purple: 18
+Group goals:
+Ró¿norodnoæ kolorów: 0
+Ró¿norodnoæ kolorów w rzêdzie: 0
+Ró¿norodnoæ kolorów w kolumnie: 0
+Ró¿norodnoæ odcieni w rzêdzie: 0
+Ró¿norodnoæ odcieni w kolumnie: 4
+Jasne odcienie: 4
+Posrednie odcienie: 2
+Ciemne odcienie: 4
+Ró¿norodnoæ odcieni: 5
+Kolorowe przek¹tne: 19
+Loss points number: 2
+Final points number: 54
+
+image: 20211015_121615
+Individual goals:
+red: 18
+yellow: 0
+green: 12
+blue: 16
+purple: 18
+Group goals:
+Ró¿norodnoæ kolorów: 0
+Ró¿norodnoæ kolorów w rzêdzie: 0
+Ró¿norodnoæ kolorów w kolumnie: 0
+Ró¿norodnoæ odcieni w rzêdzie: 0
+Ró¿norodnoæ odcieni w kolumnie: 4
+Jasne odcienie: 4
+Posrednie odcienie: 2
+Ciemne odcienie: 4
+Ró¿norodnoæ odcieni: 5
+Kolorowe przek¹tne: 19
+Loss points number: 2
+Final points number: 54
+
+image: 20211015_121630
+Individual goals:
+red: 13
+yellow: 10
+green: 12
+blue: 15
+purple: 16
+Group goals:
+Ró¿norodnoæ kolorów: 12
+Ró¿norodnoæ kolorów w rzêdzie: 0
+Ró¿norodnoæ kolorów w kolumnie: 0
+Ró¿norodnoæ odcieni w rzêdzie: 0
+Ró¿norodnoæ odcieni w kolumnie: 4
+Jasne odcienie: 2
+Posrednie odcienie: 6
+Ciemne odcienie: 4
+Ró¿norodnoæ odcieni: 5
+Kolorowe przek¹tne: 12
+Loss points number: 2
+Final points number: 71
+
+image: 20211015_121631
+Individual goals:
+red: 13
+yellow: 10
+green: 12
+blue: 15
+purple: 16
+Group goals:
+Ró¿norodnoæ kolorów: 12
+Ró¿norodnoæ kolorów w rzêdzie: 0
+Ró¿norodnoæ kolorów w kolumnie: 0
+Ró¿norodnoæ odcieni w rzêdzie: 0
+Ró¿norodnoæ odcieni w kolumnie: 4
+Jasne odcienie: 2
+Posrednie odcienie: 6
+Ciemne odcienie: 4
+Ró¿norodnoæ odcieni: 5
+Kolorowe przek¹tne: 12
+Loss points number: 2
+Final points number: 71
+
+image: 20211015_121727
+Individual goals:
+red: 16
+yellow: 18
+green: 0
+blue: 24
+purple: 17
+Group goals:
+Ró¿norodnoæ kolorów: 0
+Ró¿norodnoæ kolorów w rzêdzie: 0
+Ró¿norodnoæ kolorów w kolumnie: 0
+Ró¿norodnoæ odcieni w rzêdzie: 0
+Ró¿norodnoæ odcieni w kolumnie: 4
+Jasne odcienie: 2
+Posrednie odcienie: 4
+Ciemne odcienie: 4
+Ró¿norodnoæ odcieni: 5
+Kolorowe przek¹tne: 50
+Loss points number: 0
+Final points number: 86
+
+image: 20211015_121729
+Individual goals:
+red: 16
+yellow: 18
+green: 0
+blue: 24
+purple: 17
+Group goals:
+Ró¿norodnoæ kolorów: 0
+Ró¿norodnoæ kolorów w rzêdzie: 0
+Ró¿norodnoæ kolorów w kolumnie: 0
+Ró¿norodnoæ odcieni w rzêdzie: 0
+Ró¿norodnoæ odcieni w kolumnie: 4
+Jasne odcienie: 2
+Posrednie odcienie: 4
+Ciemne odcienie: 4
+Ró¿norodnoæ odcieni: 5
+Kolorowe przek¹tne: 50
+Loss points number: 0
+Final points number: 86
+
+image: 20211015_121735
+Individual goals:
+red: 16
+yellow: 18
+green: 0
+blue: 24
+purple: 17
+Group goals:
+Ró¿norodnoæ kolorów: 0
+Ró¿norodnoæ kolorów w rzêdzie: 0
+Ró¿norodnoæ kolorów w kolumnie: 0
+Ró¿norodnoæ odcieni w rzêdzie: 0
+Ró¿norodnoæ odcieni w kolumnie: 4
+Jasne odcienie: 2
+Posrednie odcienie: 4
+Ciemne odcienie: 4
+Ró¿norodnoæ odcieni: 5
+Kolorowe przek¹tne: 50
+Loss points number: 0
+Final points number: 86
+
+image: 20211015_121737
+Individual goals:
+red: 16
+yellow: 18
+green: 0
+blue: 24
+purple: 17
+Group goals:
+Ró¿norodnoæ kolorów: 0
+Ró¿norodnoæ kolorów w rzêdzie: 0
+Ró¿norodnoæ kolorów w kolumnie: 0
+Ró¿norodnoæ odcieni w rzêdzie: 0
+Ró¿norodnoæ odcieni w kolumnie: 4
+Jasne odcienie: 2
+Posrednie odcienie: 4
+Ciemne odcienie: 4
+Ró¿norodnoæ odcieni: 5
+Kolorowe przek¹tne: 50
+Loss points number: 0
+Final points number: 86
+
+image: 20211015_121739
+Individual goals:
+red: 16
+yellow: 18
+green: 0
+blue: 24
+purple: 17
+Group goals:
+Ró¿norodnoæ kolorów: 0
+Ró¿norodnoæ kolorów w rzêdzie: 0
+Ró¿norodnoæ kolorów w kolumnie: 0
+Ró¿norodnoæ odcieni w rzêdzie: 0
+Ró¿norodnoæ odcieni w kolumnie: 4
+Jasne odcienie: 2
+Posrednie odcienie: 4
+Ciemne odcienie: 4
+Ró¿norodnoæ odcieni: 5
+Kolorowe przek¹tne: 50
+Loss points number: 0
+Final points number: 86
+
+image: 20211015_121747
+Individual goals:
+red: 16
+yellow: 18
+green: 0
+blue: 28
+purple: 10
+Group goals:
+Ró¿norodnoæ kolorów: 0
+Ró¿norodnoæ kolorów w rzêdzie: 0
+Ró¿norodnoæ kolorów w kolumnie: 0
+Ró¿norodnoæ odcieni w rzêdzie: 0
+Ró¿norodnoæ odcieni w kolumnie: 0
+Jasne odcienie: 2
+Posrednie odcienie: 6
+Ciemne odcienie: 4
+Ró¿norodnoæ odcieni: 5
+Kolorowe przek¹tne: 47
+Loss points number: 1
+Final points number: 73
+
+image: 20211015_121749
+Individual goals:
+red: 17
+yellow: 18
+green: 0
+blue: 24
+purple: 10
+Group goals:
+Ró¿norodnoæ kolorów: 0
+Ró¿norodnoæ kolorów w rzêdzie: 0
+Ró¿norodnoæ kolorów w kolumnie: 0
+Ró¿norodnoæ odcieni w rzêdzie: 0
+Ró¿norodnoæ odcieni w kolumnie: 4
+Jasne odcienie: 4
+Posrednie odcienie: 4
+Ciemne odcienie: 4
+Ró¿norodnoæ odcieni: 10
+Kolorowe przek¹tne: 43
+Loss points number: 1
+Final points number: 78
+
+image: 20211015_121750
+Individual goals:
+red: 16
+yellow: 18
+green: 0
+blue: 24
+purple: 10
+Group goals:
+Ró¿norodnoæ kolorów: 0
+Ró¿norodnoæ kolorów w rzêdzie: 0
+Ró¿norodnoæ kolorów w kolumnie: 0
+Ró¿norodnoæ odcieni w rzêdzie: 0
+Ró¿norodnoæ odcieni w kolumnie: 0
+Jasne odcienie: 2
+Posrednie odcienie: 4
+Ciemne odcienie: 4
+Ró¿norodnoæ odcieni: 5
+Kolorowe przek¹tne: 43
+Loss points number: 2
+Final points number: 66
+
+image: 20211015_121806
+Individual goals:
+red: 15
+yellow: 18
+green: 14
+blue: 24
+purple: 10
+Group goals:
+Ró¿norodnoæ kolorów: 12
+Ró¿norodnoæ kolorów w rzêdzie: 6
+Ró¿norodnoæ kolorów w kolumnie: 10
+Ró¿norodnoæ odcieni w rzêdzie: 10
+Ró¿norodnoæ odcieni w kolumnie: 0
+Jasne odcienie: 0
+Posrednie odcienie: 4
+Ciemne odcienie: 8
+Ró¿norodnoæ odcieni: 0
+Kolorowe przek¹tne: 43
+Loss points number: 0
+Final points number: 115
+
+image: 20211015_121809
+Individual goals:
+red: 15
+yellow: 18
+green: 14
+blue: 24
+purple: 10
+Group goals:
+Ró¿norodnoæ kolorów: 12
+Ró¿norodnoæ kolorów w rzêdzie: 6
+Ró¿norodnoæ kolorów w kolumnie: 10
+Ró¿norodnoæ odcieni w rzêdzie: 10
+Ró¿norodnoæ odcieni w kolumnie: 0
+Jasne odcienie: 0
+Posrednie odcienie: 4
+Ciemne odcienie: 8
+Ró¿norodnoæ odcieni: 0
+Kolorowe przek¹tne: 43
+Loss points number: 0
+Final points number: 115
+
+image: 20211015_121819
+Individual goals:
+red: 15
+yellow: 18
+green: 13
+blue: 24
+purple: 10
+Group goals:
+Ró¿norodnoæ kolorów: 12
+Ró¿norodnoæ kolorów w rzêdzie: 6
+Ró¿norodnoæ kolorów w kolumnie: 10
+Ró¿norodnoæ odcieni w rzêdzie: 10
+Ró¿norodnoæ odcieni w kolumnie: 4
+Jasne odcienie: 2
+Posrednie odcienie: 4
+Ciemne odcienie: 8
+Ró¿norodnoæ odcieni: 5
+Kolorowe przek¹tne: 43
+Loss points number: 0
+Final points number: 126
+
+image: 20211018_110851
+Individual goals:
+red: 12
+yellow: 20
+green: 18
+blue: 14
+purple: 7
+Group goals:
+Ró¿norodnoæ kolorów: 12
+Ró¿norodnoæ kolorów w rzêdzie: 6
+Ró¿norodnoæ kolorów w kolumnie: 15
+Ró¿norodnoæ odcieni w rzêdzie: 15
+Ró¿norodnoæ odcieni w kolumnie: 12
+Jasne odcienie: 6
+Posrednie odcienie: 6
+Ciemne odcienie: 6
+Ró¿norodnoæ odcieni: 15
+Kolorowe przek¹tne: 48
+Loss points number: 0
+Final points number: 160
+
+image: 20211018_110853
+Individual goals:
+red: 12
+yellow: 20
+green: 18
+blue: 14
+purple: 7
+Group goals:
+Ró¿norodnoæ kolorów: 12
+Ró¿norodnoæ kolorów w rzêdzie: 6
+Ró¿norodnoæ kolorów w kolumnie: 15
+Ró¿norodnoæ odcieni w rzêdzie: 15
+Ró¿norodnoæ odcieni w kolumnie: 12
+Jasne odcienie: 6
+Posrednie odcienie: 6
+Ciemne odcienie: 6
+Ró¿norodnoæ odcieni: 15
+Kolorowe przek¹tne: 48
+Loss points number: 0
+Final points number: 160
+
+image: 20211018_110856
+Individual goals:
+red: 12
+yellow: 20
+green: 18
+blue: 14
+purple: 7
+Group goals:
+Ró¿norodnoæ kolorów: 12
+Ró¿norodnoæ kolorów w rzêdzie: 6
+Ró¿norodnoæ kolorów w kolumnie: 15
+Ró¿norodnoæ odcieni w rzêdzie: 15
+Ró¿norodnoæ odcieni w kolumnie: 12
+Jasne odcienie: 6
+Posrednie odcienie: 6
+Ciemne odcienie: 6
+Ró¿norodnoæ odcieni: 15
+Kolorowe przek¹tne: 48
+Loss points number: 0
+Final points number: 160
+
+image: 20211018_110906
+Individual goals:
+red: 9
+yellow: 20
+green: 13
+blue: 14
+purple: 7
+Group goals:
+Ró¿norodnoæ kolorów: 12
+Ró¿norodnoæ kolorów w rzêdzie: 6
+Ró¿norodnoæ kolorów w kolumnie: 10
+Ró¿norodnoæ odcieni w rzêdzie: 10
+Ró¿norodnoæ odcieni w kolumnie: 8
+Jasne odcienie: 6
+Posrednie odcienie: 6
+Ciemne odcienie: 6
+Ró¿norodnoæ odcieni: 15
+Kolorowe przek¹tne: 37
+Loss points number: 2
+Final points number: 133
+
+image: 20211018_110908
+Individual goals:
+red: 9
+yellow: 20
+green: 13
+blue: 14
+purple: 7
+Group goals:
+Ró¿norodnoæ kolorów: 12
+Ró¿norodnoæ kolorów w rzêdzie: 6
+Ró¿norodnoæ kolorów w kolumnie: 10
+Ró¿norodnoæ odcieni w rzêdzie: 10
+Ró¿norodnoæ odcieni w kolumnie: 8
+Jasne odcienie: 6
+Posrednie odcienie: 6
+Ciemne odcienie: 6
+Ró¿norodnoæ odcieni: 15
+Kolorowe przek¹tne: 37
+Loss points number: 2
+Final points number: 133
+
+image: 20211018_111103
+Individual goals:
+red: 19
+yellow: 14
+green: 10
+blue: 10
+purple: 14
+Group goals:
+Ró¿norodnoæ kolorów: 12
+Ró¿norodnoæ kolorów w rzêdzie: 6
+Ró¿norodnoæ kolorów w kolumnie: 20
+Ró¿norodnoæ odcieni w rzêdzie: 20
+Ró¿norodnoæ odcieni w kolumnie: 16
+Jasne odcienie: 6
+Posrednie odcienie: 8
+Ciemne odcienie: 4
+Ró¿norodnoæ odcieni: 10
+Kolorowe przek¹tne: 41
+Loss points number: 0
+Final points number: 169
+
+image: 20211018_111105
+Individual goals:
+red: 19
+yellow: 14
+green: 10
+blue: 10
+purple: 14
+Group goals:
+Ró¿norodnoæ kolorów: 12
+Ró¿norodnoæ kolorów w rzêdzie: 6
+Ró¿norodnoæ kolorów w kolumnie: 20
+Ró¿norodnoæ odcieni w rzêdzie: 20
+Ró¿norodnoæ odcieni w kolumnie: 16
+Jasne odcienie: 6
+Posrednie odcienie: 8
+Ciemne odcienie: 4
+Ró¿norodnoæ odcieni: 10
+Kolorowe przek¹tne: 41
+Loss points number: 0
+Final points number: 169
+
+image: 20211018_111108
+Individual goals:
+red: 19
+yellow: 14
+green: 10
+blue: 10
+purple: 14
+Group goals:
+Ró¿norodnoæ kolorów: 12
+Ró¿norodnoæ kolorów w rzêdzie: 6
+Ró¿norodnoæ kolorów w kolumnie: 20
+Ró¿norodnoæ odcieni w rzêdzie: 20
+Ró¿norodnoæ odcieni w kolumnie: 16
+Jasne odcienie: 6
+Posrednie odcienie: 8
+Ciemne odcienie: 4
+Ró¿norodnoæ odcieni: 10
+Kolorowe przek¹tne: 41
+Loss points number: 0
+Final points number: 169
+
+image: 20211018_111116
+Individual goals:
+red: 13
+yellow: 10
+green: 14
+blue: 10
+purple: 9
+Group goals:
+Ró¿norodnoæ kolorów: 12
+Ró¿norodnoæ kolorów w rzêdzie: 6
+Ró¿norodnoæ kolorów w kolumnie: 10
+Ró¿norodnoæ odcieni w rzêdzie: 10
+Ró¿norodnoæ odcieni w kolumnie: 8
+Jasne odcienie: 6
+Posrednie odcienie: 8
+Ciemne odcienie: 2
+Ró¿norodnoæ odcieni: 5
+Kolorowe przek¹tne: 29
+Loss points number: 2
+Final points number: 115
+
+image: 20211018_111119
+Individual goals:
+red: 14
+yellow: 11
+green: 10
+blue: 10
+purple: 9
+Group goals:
+Ró¿norodnoæ kolorów: 12
+Ró¿norodnoæ kolorów w rzêdzie: 6
+Ró¿norodnoæ kolorów w kolumnie: 10
+Ró¿norodnoæ odcieni w rzêdzie: 10
+Ró¿norodnoæ odcieni w kolumnie: 8
+Jasne odcienie: 8
+Posrednie odcienie: 6
+Ciemne odcienie: 2
+Ró¿norodnoæ odcieni: 5
+Kolorowe przek¹tne: 34
+Loss points number: 1
+Final points number: 121
+
+image: 20211018_111241
+Individual goals:
+red: 10
+yellow: 0
+green: 15
+blue: 17
+purple: 22
+Group goals:
+Ró¿norodnoæ kolorów: 0
+Ró¿norodnoæ kolorów w rzêdzie: 0
+Ró¿norodnoæ kolorów w kolumnie: 5
+Ró¿norodnoæ odcieni w rzêdzie: 5
+Ró¿norodnoæ odcieni w kolumnie: 8
+Jasne odcienie: 6
+Posrednie odcienie: 8
+Ciemne odcienie: 2
+Ró¿norodnoæ odcieni: 5
+Kolorowe przek¹tne: 31
+Loss points number: 0
+Final points number: 92
+
+image: 20211018_111247
+Individual goals:
+red: 10
+yellow: 0
+green: 15
+blue: 17
+purple: 22
+Group goals:
+Ró¿norodnoæ kolorów: 0
+Ró¿norodnoæ kolorów w rzêdzie: 0
+Ró¿norodnoæ kolorów w kolumnie: 5
+Ró¿norodnoæ odcieni w rzêdzie: 5
+Ró¿norodnoæ odcieni w kolumnie: 8
+Jasne odcienie: 6
+Posrednie odcienie: 8
+Ciemne odcienie: 2
+Ró¿norodnoæ odcieni: 5
+Kolorowe przek¹tne: 31
+Loss points number: 0
+Final points number: 92
+
+image: 20211018_111249
+Individual goals:
+red: 10
+yellow: 0
+green: 15
+blue: 17
+purple: 22
+Group goals:
+Ró¿norodnoæ kolorów: 0
+Ró¿norodnoæ kolorów w rzêdzie: 0
+Ró¿norodnoæ kolorów w kolumnie: 5
+Ró¿norodnoæ odcieni w rzêdzie: 5
+Ró¿norodnoæ odcieni w kolumnie: 8
+Jasne odcienie: 6
+Posrednie odcienie: 8
+Ciemne odcienie: 2
+Ró¿norodnoæ odcieni: 5
+Kolorowe przek¹tne: 31
+Loss points number: 0
+Final points number: 92
+
+image: 20211018_111255
+Individual goals:
+red: 10
+yellow: 0
+green: 10
+blue: 17
+purple: 22
+Group goals:
+Ró¿norodnoæ kolorów: 0
+Ró¿norodnoæ kolorów w rzêdzie: 0
+Ró¿norodnoæ kolorów w kolumnie: 5
+Ró¿norodnoæ odcieni w rzêdzie: 5
+Ró¿norodnoæ odcieni w kolumnie: 4
+Jasne odcienie: 6
+Posrednie odcienie: 8
+Ciemne odcienie: 0
+Ró¿norodnoæ odcieni: 0
+Kolorowe przek¹tne: 31
+Loss points number: 1
+Final points number: 80
+
+image: 20211018_111258
+Individual goals:
+red: 10
+yellow: 0
+green: 10
+blue: 17
+purple: 22
+Group goals:
+Ró¿norodnoæ kolorów: 0
+Ró¿norodnoæ kolorów w rzêdzie: 0
+Ró¿norodnoæ kolorów w kolumnie: 5
+Ró¿norodnoæ odcieni w rzêdzie: 5
+Ró¿norodnoæ odcieni w kolumnie: 4
+Jasne odcienie: 6
+Posrednie odcienie: 8
+Ciemne odcienie: 0
+Ró¿norodnoæ odcieni: 0
+Kolorowe przek¹tne: 31
+Loss points number: 1
+Final points number: 80
+
+image: 20211018_111432
+Individual goals:
+red: 27
+yellow: 17
+green: 13
+blue: 11
+purple: 0
+Group goals:
+Ró¿norodnoæ kolorów: 0
+Ró¿norodnoæ kolorów w rzêdzie: 0
+Ró¿norodnoæ kolorów w kolumnie: 5
+Ró¿norodnoæ odcieni w rzêdzie: 5
+Ró¿norodnoæ odcieni w kolumnie: 16
+Jasne odcienie: 6
+Posrednie odcienie: 6
+Ciemne odcienie: 6
+Ró¿norodnoæ odcieni: 15
+Kolorowe przek¹tne: 54
+Loss points number: 0
+Final points number: 113
+
+image: 20211018_111434
+Individual goals:
+red: 27
+yellow: 17
+green: 13
+blue: 11
+purple: 0
+Group goals:
+Ró¿norodnoæ kolorów: 0
+Ró¿norodnoæ kolorów w rzêdzie: 0
+Ró¿norodnoæ kolorów w kolumnie: 5
+Ró¿norodnoæ odcieni w rzêdzie: 5
+Ró¿norodnoæ odcieni w kolumnie: 16
+Jasne odcienie: 6
+Posrednie odcienie: 6
+Ciemne odcienie: 6
+Ró¿norodnoæ odcieni: 15
+Kolorowe przek¹tne: 54
+Loss points number: 0
+Final points number: 113
+
+image: 20211018_111437
+Individual goals:
+red: 27
+yellow: 17
+green: 13
+blue: 11
+purple: 0
+Group goals:
+Ró¿norodnoæ kolorów: 0
+Ró¿norodnoæ kolorów w rzêdzie: 0
+Ró¿norodnoæ kolorów w kolumnie: 5
+Ró¿norodnoæ odcieni w rzêdzie: 5
+Ró¿norodnoæ odcieni w kolumnie: 16
+Jasne odcienie: 6
+Posrednie odcienie: 6
+Ciemne odcienie: 6
+Ró¿norodnoæ odcieni: 15
+Kolorowe przek¹tne: 54
+Loss points number: 0
+Final points number: 113
+
+image: 20211018_111446
+Individual goals:
+red: 23
+yellow: 15
+green: 13
+blue: 8
+purple: 0
+Group goals:
+Ró¿norodnoæ kolorów: 0
+Ró¿norodnoæ kolorów w rzêdzie: 0
+Ró¿norodnoæ kolorów w kolumnie: 5
+Ró¿norodnoæ odcieni w rzêdzie: 5
+Ró¿norodnoæ odcieni w kolumnie: 8
+Jasne odcienie: 4
+Posrednie odcienie: 4
+Ciemne odcienie: 6
+Ró¿norodnoæ odcieni: 10
+Kolorowe przek¹tne: 47
+Loss points number: 3
+Final points number: 86
+
+image: 20211018_111448
+Individual goals:
+red: 23
+yellow: 15
+green: 13
+blue: 8
+purple: 0
+Group goals:
+Ró¿norodnoæ kolorów: 0
+Ró¿norodnoæ kolorów w rzêdzie: 0
+Ró¿norodnoæ kolorów w kolumnie: 5
+Ró¿norodnoæ odcieni w rzêdzie: 5
+Ró¿norodnoæ odcieni w kolumnie: 8
+Jasne odcienie: 4
+Posrednie odcienie: 4
+Ciemne odcienie: 6
+Ró¿norodnoæ odcieni: 10
+Kolorowe przek¹tne: 47
+Loss points number: 3
+Final points number: 86
+
+image: 20211018_111555
+Individual goals:
+red: 0
+yellow: 18
+green: 16
+blue: 18
+purple: 17
+Group goals:
+Ró¿norodnoæ kolorów: 0
+Ró¿norodnoæ kolorów w rzêdzie: 0
+Ró¿norodnoæ kolorów w kolumnie: 10
+Ró¿norodnoæ odcieni w rzêdzie: 10
+Ró¿norodnoæ odcieni w kolumnie: 4
+Jasne odcienie: 6
+Posrednie odcienie: 6
+Ciemne odcienie: 6
+Ró¿norodnoæ odcieni: 15
+Kolorowe przek¹tne: 58
+Loss points number: 0
+Final points number: 132
+
+image: 20211018_111557
+Individual goals:
+red: 0
+yellow: 18
+green: 16
+blue: 18
+purple: 17
+Group goals:
+Ró¿norodnoæ kolorów: 0
+Ró¿norodnoæ kolorów w rzêdzie: 0
+Ró¿norodnoæ kolorów w kolumnie: 10
+Ró¿norodnoæ odcieni w rzêdzie: 10
+Ró¿norodnoæ odcieni w kolumnie: 4
+Jasne odcienie: 6
+Posrednie odcienie: 6
+Ciemne odcienie: 6
+Ró¿norodnoæ odcieni: 15
+Kolorowe przek¹tne: 58
+Loss points number: 0
+Final points number: 132
+
+image: 20211018_111559
+Individual goals:
+red: 0
+yellow: 18
+green: 16
+blue: 18
+purple: 17
+Group goals:
+Ró¿norodnoæ kolorów: 0
+Ró¿norodnoæ kolorów w rzêdzie: 0
+Ró¿norodnoæ kolorów w kolumnie: 10
+Ró¿norodnoæ odcieni w rzêdzie: 10
+Ró¿norodnoæ odcieni w kolumnie: 4
+Jasne odcienie: 6
+Posrednie odcienie: 6
+Ciemne odcienie: 6
+Ró¿norodnoæ odcieni: 15
+Kolorowe przek¹tne: 58
+Loss points number: 0
+Final points number: 132
+
+image: 20211018_111606
+Individual goals:
+red: 0
+yellow: 18
+green: 11
+blue: 18
+purple: 13
+Group goals:
+Ró¿norodnoæ kolorów: 0
+Ró¿norodnoæ kolorów w rzêdzie: 0
+Ró¿norodnoæ kolorów w kolumnie: 5
+Ró¿norodnoæ odcieni w rzêdzie: 5
+Ró¿norodnoæ odcieni w kolumnie: 0
+Jasne odcienie: 6
+Posrednie odcienie: 6
+Ciemne odcienie: 4
+Ró¿norodnoæ odcieni: 10
+Kolorowe przek¹tne: 46
+Loss points number: 2
+Final points number: 93
+
+image: 20211018_111716
+Individual goals:
+red: 21
+yellow: 11
+green: 10
+blue: 21
+purple: 13
+Group goals:
+Ró¿norodnoæ kolorów: 12
+Ró¿norodnoæ kolorów w rzêdzie: 0
+Ró¿norodnoæ kolorów w kolumnie: 20
+Ró¿norodnoæ odcieni w rzêdzie: 20
+Ró¿norodnoæ odcieni w kolumnie: 12
+Jasne odcienie: 4
+Posrednie odcienie: 8
+Ciemne odcienie: 6
+Ró¿norodnoæ odcieni: 10
+Kolorowe przek¹tne: 35
+Loss points number: 0
+Final points number: 152
+
+image: 20211018_111717
+Individual goals:
+red: 21
+yellow: 10
+green: 10
+blue: 21
+purple: 13
+Group goals:
+Ró¿norodnoæ kolorów: 12
+Ró¿norodnoæ kolorów w rzêdzie: 0
+Ró¿norodnoæ kolorów w kolumnie: 20
+Ró¿norodnoæ odcieni w rzêdzie: 20
+Ró¿norodnoæ odcieni w kolumnie: 8
+Jasne odcienie: 2
+Posrednie odcienie: 8
+Ciemne odcienie: 6
+Ró¿norodnoæ odcieni: 5
+Kolorowe przek¹tne: 34
+Loss points number: 0
+Final points number: 140
+
+image: 20211018_111719
+Individual goals:
+red: 21
+yellow: 11
+green: 10
+blue: 21
+purple: 13
+Group goals:
+Ró¿norodnoæ kolorów: 12
+Ró¿norodnoæ kolorów w rzêdzie: 0
+Ró¿norodnoæ kolorów w kolumnie: 20
+Ró¿norodnoæ odcieni w rzêdzie: 20
+Ró¿norodnoæ odcieni w kolumnie: 12
+Jasne odcienie: 4
+Posrednie odcienie: 8
+Ciemne odcienie: 6
+Ró¿norodnoæ odcieni: 10
+Kolorowe przek¹tne: 35
+Loss points number: 0
+Final points number: 152
+
+image: 20211018_111724
+Individual goals:
+red: 21
+yellow: 12
+green: 10
+blue: 17
+purple: 10
+Group goals:
+Ró¿norodnoæ kolorów: 12
+Ró¿norodnoæ kolorów w rzêdzie: 0
+Ró¿norodnoæ kolorów w kolumnie: 10
+Ró¿norodnoæ odcieni w rzêdzie: 10
+Ró¿norodnoæ odcieni w kolumnie: 8
+Jasne odcienie: 4
+Posrednie odcienie: 6
+Ciemne odcienie: 6
+Ró¿norodnoæ odcieni: 10
+Kolorowe przek¹tne: 29
+Loss points number: 1
+Final points number: 116
+
